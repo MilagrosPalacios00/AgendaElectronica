@@ -17,3 +17,11 @@ Aplicación de agenda en Java que gestiona contactos. Utiliza expresiones regula
 
 - **Lenguaje**: Java
 - **Bibliotecas**: Swing para la interfaz gráfica
+
+## Captura de Pantalla
+
+![Interfaz de la Aplicación](imagen_interfaz.png)
+
+
+
+  
