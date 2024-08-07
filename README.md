@@ -20,7 +20,7 @@ Aplicación de agenda en Java que gestiona contactos. Utiliza expresiones regula
 
 ## Captura de Pantalla
 
-![Interfaz de la Aplicación](imagen_interfaz.png)
+![Interfaz de la Aplicación](Imagen_Interfaz.png)
 
 
 
